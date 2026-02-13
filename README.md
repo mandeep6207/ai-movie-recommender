@@ -182,8 +182,8 @@ Users can:
 
 ## 👨‍💻 Author
 
-**Mandeep Kumar**
-AI / Data Science & Full Stack Developer
+Name:- Mandeep Kumar
+AI / Data Science Student
 
 ---
 
